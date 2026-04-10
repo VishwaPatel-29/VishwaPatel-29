@@ -1,38 +1,105 @@
-<h1 align="center"><b>👋 Hello Everyone! 👩🏼‍💻 Vishwa JayeshKumar Patel</b></h1>
+<img src="https://user-images.githubusercontent.com/97781422/185549684-8443257c-c202-440f-b506-6993049e941f.jpg" />
 
-<h3 align="center"><b>Computer Engineering Student at CodingGita</b></h3>
-<h3 align="center"><b>Frontent Developer | UI/UX Designer</b></h3>
-<h3 align="center"><b>Aspiring Web Developer</b></h3>
-
----
-<h4>🙋🏻‍♀️Know Me</h4>
-
-💻 Currently learning Web Development <br>
-🚀 Interested in JavaScript & Data Structures & Algorithms <br>
-📚 Actively using GitHub for coding practice & real-world projects <br>
-🎨 Exploring UI/UX Design using Figma <br>
-
-🪄 I’m a Computer Engineering student at CodingGita with a strong interest in frontend development and UI/UX design. I enjoy building clean, responsive, and user-friendly web interfaces while continuously improving my JavaScript and problem-solving skills.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Vishwa+Patel;Aspiring+Full+Stack+Developer+💻;UI/UX+Enthusiast;Problem+Solver;Creative+Coder+🚀" />
+</p>
 
 ---
 
-<h4>🛠 Tech Skills</h4>
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" /> </p> <br> 
+## 👨‍💻 About Me ✨
 
-<h4>🛠 Core Skills</h4>
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <br/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <br/> <img src="https://img.shields.io/badge/Figma-8E2DE2?style=for-the-badge&logo=figma&logoColor=white"/> </p> <br> 
+<p>
+  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" height="190" width="400" align="right" style="margin-left:20px;" />
+</p>
 
-<h4>🌐 Connect With Me</h4>
-<p align="left"> <a href="https://github.com/Vishwa-29-design" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/vishwa-patel-8664473a0/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.youtube.com/@VishwaPatel-q3c" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> </p> <br>
+- 👨‍💻 Aspiring Full Stack Developer specializing in Web Development 🌐  
+- 💻 Currently exploring new technologies & skills 🚀  
+- 🔭 Building real-world scalable applications ⚙️  
+- 🌱 Passionate about building websites & UI/UX 🎨  
+- 🤝 Enjoy collaboration & teamwork 👥  
+- 💡 Fun fact: I’m a **creative person** and I love my country 🇮🇳  
 
 ---
 
-👩🏼‍💻Website Clones :
-| Name Of Websites | Description | Live Netlify | Video Demo | Github Repo |
-|----------|----------|----------|----------|----------|
-| Dream Games | Website of Gaming | [Netlify](https://1stwebsite-dreamgames-vishwa.netlify.app/) | [Video](https://youtu.be/qpuypRk-kHU?si=fZztwZUwb5xPvumX) | [Repo](https://github.com/Vishwa-29-design/Website-Clones/tree/main/Dream%20Games) |
-| BlackBuck | India's Largest Trucking Platform | [Netlify](https://2ndwebsite-blackbuck-vishwa.netlify.app/) | [Video](https://youtu.be/RQ4pQbU8kDk?si=SL85cpgFionBBkkF) | [Video](https://github.com/Vishwa-29-design/Website-Clones/tree/main/BlackBuck) |
-| DUER | Clothing Website | [Netlify](https://3rdwebsite-duer-vishwa.netlify.app/) | [Video](https://youtu.be/T8qkhnWFJAE?si=BZmMX29ZDw9G7RW-) | [Repo](https://github.com/Vishwa-29-design/Website-Clones/tree/main/DUER) |
-| Newest By Onecenter | Onecenter Website | [Netlify](https://4thwebsite-newestbyoncenter-vishwaa.netlify.app/) | [Video](https://youtu.be/ZqLmpTiehS4?si=GhiwKiL-8aRnJStL) | [Repo](https://github.com/Vishwa-29-design/Website-Clones/tree/main/Newest%20By%20Onecenter)|
-| OWND! | Clothing Website | [Netlify](https://5thwebsite-ownd-vishwa.netlify.app/) | [Video](https://youtu.be/xAqxdDYYGFQ?si=0Va4pKCX30W6ZDso) | [Repo](https://github.com/Vishwa-29-design/Website-Clones/tree/main/OWND!) |
-| Udaan | B2B Buying Website for Retailers | [Netlify](https://6thwebsite-udaan-vishwa.netlify.app/) | [Video](https://youtu.be/V1C_FiXOFpU?si=bo17kPOC3NGb1mKn) | [Repo](https://github.com/Vishwa-29-design/Website-Clones/tree/main/Udaan) |
+## 🌐 Connect With Me 📬
+
+<p align="center">
+  <a href="mailto:vishwa29patel.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/>
+  </a>
+  <a href="https://rajeshranjan22.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefox&logoColor=bb9af7"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1PIfe_XFjBqslArfNUrG9b0YTv5vfv4fX/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-1a1b26?style=for-the-badge&logo=googledrive&logoColor=7dcfff"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack ⚡
+
+<div align="center">
+
+<h3 style="color:#7aa2f7;">Frontend 🎨</h3>
+
+<img src="https://img.shields.io/badge/html5-1a1b26?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/css3-1a1b26?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/javascript-1a1b26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-1a1b26?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-1a1b26?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+<br/><br/>
+
+<h3 style="color:#bb9af7;">Backend ⚙️</h3>
+
+<img src="https://img.shields.io/badge/Node.js-1a1b26?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-1a1b26?style=for-the-badge&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b26?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+
+<br/><br/>
+
+<h3 style="color:#9ece6a;">Tools 🧰</h3>
+
+<img src="https://img.shields.io/badge/Git-1a1b26?style=for-the-badge&logo=git&logoColor=f44d27" />
+<img src="https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Postman-1a1b26?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+<img src="https://img.shields.io/badge/Figma-1a1b26?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats 📈
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=VishwaPatel-29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bb9af7&text_color=c0caf5" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwaPatel-29&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" height="180"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak ⚡
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwaPatel-29&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bb9af7&fire=f7768e&currStreakLabel=c0caf5" />
+</p>
+
+---
+
+## 📈 Contribution Graph 📊
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwaPatel-29&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i style="color:#7aa2f7;">⭐️ If you like my work, consider giving a star! ⭐️</i><br><br>
+  <img src="https://img.shields.io/badge/Thanks-1a1b26?style=for-the-badge&logo=github&logoColor=bb9af7"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
