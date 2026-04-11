@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Vishwa%20Patel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Full%20Stack%20Developer%20|%20💡%20Problem%20Solver%20|%20🔥%20Tech%20Enthusiast&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Vishwa%20Patel&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Aspiring%20Full%20Stack%20Developer%20|%20💡%20Creative%20Coder%20|%20🎨%20UI/UX%20Enthusiast&descAlignY=55"/>
 
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00F5A0&center=true&vCenter=true&width=750&lines=🚀+Full+Stack+Developer;⚛️+React+%7C+Node+%7C+MongoDB;🔥+Building+Scalable+Web+Apps;🎨UI/UX+Designer;💻+Creative+Coder"/>
