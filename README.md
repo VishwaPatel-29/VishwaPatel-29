@@ -54,7 +54,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=vercel&logoColor=000000"/>
   </a>
-  <a href="#">
+  <a href="https://vishwa-patel-resume.netlify.app/">
     <img src="https://img.shields.io/badge/Resume-203a43?style=for-the-badge&logo=adobeacrobatreader&logoColor=00F5A0"/>
   </a>
 </p>
