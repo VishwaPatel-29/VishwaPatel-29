@@ -51,7 +51,7 @@
   <a href="https://www.youtube.com/@VishwaPatel-29h">
     <img src="https://img.shields.io/badge/YouTube-2c5364?style=for-the-badge&logo=youtube&logoColor=ffffff"/>
   </a>
-  <a href="#">
+  <a href="https://vishwapatel-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge&logo=vercel&logoColor=000000"/>
   </a>
   <a href="https://vishwa-patel-resume.netlify.app/">
